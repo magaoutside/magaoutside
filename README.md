@@ -5,3 +5,10 @@
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,github"/>&nbsp;
+
+### My stats
+<div id="stat" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=magaoutside&theme=2077" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=magaoutside&theme=2077" alt=""/>
+    <img src="https://github-readme-stats.vercel.app/api?username=magaoutside&show_icons=true&theme=tokyonight" alt=""/>
+</div>
