@@ -2,3 +2,6 @@
 
 ### Stack
 <img src="https://skillicons.dev/icons?i=py,cpp,linux,git,docker,bash,html,css,js,c#"/>&nbsp;
+
+### Tools
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,github"/>&nbsp;
