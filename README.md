@@ -3,10 +3,10 @@
 </div>
 
 ### Stack
-<img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,opencv,fastapi,cpp,cs,linux,git,docker,bash,html,css,js,flask,lua,mysql,sqlite"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,opencv,fastapi,bots,cpp,cs,linux,git,docker,bash,html,css,js,flask,lua,mysql,sqlite"/>&nbsp;
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,github,figma,ai,photoshop,arduino,raspberrypi,blender,robloxstudio"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,github,figma,ai,photoshop,arduino,raspberrypi,blender,robloxstudio,discord"/>&nbsp;
 
 ### My stats
 <div id="stat" align="center">
