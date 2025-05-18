@@ -6,7 +6,7 @@
 <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,opencv,bots,cpp,git,docker,bash,html,css,js,lua,sqlite"/>&nbsp;
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,github,figma,ai,photoshop,arduino,blender,robloxstudio,discord,arch,ubuntu,windows,linux"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,github,figma,ai,arduino,blender,robloxstudio,discord,arch,ubuntu,windows,linux"/>&nbsp;
 
 ### My stats
 <div id="stat" align="center">
