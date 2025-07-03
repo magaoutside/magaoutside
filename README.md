@@ -3,7 +3,7 @@
 </div>
 
 ### Stack
-<img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,opencv,bots,cpp,bash,html,css,js,lua,sqlite"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,opencv,bots,bash,html,css,js,lua,sqlite"/>&nbsp;
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,github,figma,ai,photoshop,arduino,blender,robloxstudio,discord,arch,ubuntu,windows,linux"/>&nbsp;
